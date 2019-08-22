@@ -1,0 +1,17 @@
+{
+  "name": "hltv",
+  "version": "1.0.0",
+  "description": "HLTV js script to auto-upload top 20 news to CSGO subreddit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Htut",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "mongoose": "^5.6.10",
+    "request": "^2.88.0",
+    "snoowrap": "^1.19.0"
+  }
+}

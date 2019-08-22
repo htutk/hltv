@@ -1,0 +1,5 @@
+# file includes sensitive info
+data.json
+
+# initial reddit setups
+reddit*
